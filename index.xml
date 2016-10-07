@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preston Mitcham</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Preston Mitcham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Oct 2016 22:53:01 -0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>http://replace-this-with-your-hugo-site.com/</link>
+      <pubDate>Wed, 05 Oct 2016 22:53:01 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/</guid>
+      <description>
+
+&lt;h1 id=&#34;preston&#34;&gt;Preston&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
