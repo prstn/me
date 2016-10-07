@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>{{partial "head.html" .}}</head>
+<body>
+    {{ partial "header.html" . }}
+    <article class="text-center constrain--narrow">
+        <img src="img/me.png" class="img-me" alt="{{ .Site.Params.me }}">
+        <h1>{{ .Site.Params.me }}</h1>
+        <h3>Skills</h3>
+        <p><em>{{ delimit .Site.Params.skills ", " }}</em></p>
+        <h3>Coding Principles</h3>
+        <p><em>{{ delimit .Site.Params.codingPrinciples ", " }}</em></p>
+        <h3>Connect</h3>
+        <p><a href="{{ .Site.Params.linkedInUrl}}"><em>Linked In</em></a></p>
+    </article>
+</body>
+</html>

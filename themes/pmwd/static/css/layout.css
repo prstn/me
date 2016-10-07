@@ -1,0 +1,10 @@
+.constrain,
+.constrain--narrow {
+    margin: 0 auto;
+}
+.constrain { max-width: 30rem; }
+.constrain--narrow { max-width: 21rem; }
+
+.img-me {
+    margin: 1.75rem 0 1rem;
+}

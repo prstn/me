@@ -1,0 +1,12 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Preston Mitcham"
+theme = "pmwd"
+me = "Preston Mitcham"
+
+[params]
+    me = "Preston Mitcham"
+    stylesheets = ["layout.css", "typography.css", "theme.css"]
+    skills = ["Angular", "Animation", "Agile", "BEM", "CSS", "Design", "JavaScript", "Typography"]
+    codingPrinciples = ["Fast", "DRY", "Testable", "Single-Purpose", "Simple"]
+    linkedInUrl = "https://www.linkedin.com/in/preston-mitcham-99320619"
