@@ -6,5 +6,6 @@
 .constrain--narrow { max-width: 21rem; }
 
 .img-me {
-    margin: 1.75rem 0 1rem;
+    margin: 2rem 0 1rem;
+    height: 9rem;
 }
