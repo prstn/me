@@ -1,11 +1,11 @@
 language: go
 install: go get -v github.com/spf13/hugo
-    global:
-        - SSH_KEY="github_rsa"
-        - GIT_NAME="Preston Mitcham"
-        - GIT_EMAIL="pmitcham@gmail.com"
-        - SOURCE_DIR="dist"
-        - DEPLOY_BRANCH="gh-pages"
+global:
+  - SSH_KEY="github_rsa"
+  - GIT_NAME="Preston Mitcham"
+  - GIT_EMAIL="pmitcham@gmail.com"
+  - SOURCE_DIR="dist"
+  - DEPLOY_BRANCH="gh-pages"
 
 before_install:
 - openssl aes-256-cbc -K $encrypted_ea6dd40009ec_key -iv $encrypted_ea6dd40009ec_iv
